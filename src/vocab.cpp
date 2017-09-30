@@ -2,6 +2,7 @@
 #include <string.h>
 #include <stdio.h>
 #include <iostream>
+#include <algorithm>
 #include <future>
 #include "vocab.h"
 #include "io.h"
